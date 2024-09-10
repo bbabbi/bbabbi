@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,50:1F78B4,100:63B5E7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<h2> Chaeyoung Moon's Portfolio </h2>
+<h2> Chaeyoung Moon's Github </h2>
 
 [🩵 Portfolio](https://github.com/bbabbi)
 
